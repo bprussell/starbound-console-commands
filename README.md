@@ -1,6 +1,6 @@
 # Starbound Console Command Guide
 
-Guide to getting achievements in Starbound via console commands. This will be a partial list.
+Guide to getting achievements in Starbound via console commands.
 
 ## The Hopeful
 
@@ -22,13 +22,69 @@ Accept "The Erchius Mining Facility" when the prompt appears.
 
 ## The Wanderer
 
+```
+/completequest gaterepair
+```
+
 ## The Brave
+
+```
+/startquest '"floran_mission1"'
+```
+```
+/completequest floran_mission1
+```
+```
+/startquest '"floran_mission2"'
+```
+```
+/completequest floran_mission2
+```
 
 ## The Wise
 
+```
+/startquest '"hylotl_mission1"'
+```
+```
+/completequest hylotl_mission1
+```
+```
+/startquest '"hylotl_mission2"'
+```
+```
+/completequest hylotl_mission2
+```
+
 ## The Devout
 
+```
+/startquest '"avian_mission1"'
+```
+```
+/completequest avian_mission1
+```
+```
+/startquest '"avian_mission2"'
+```
+```
+/completequest avian_mission2
+```
+
 ## The Resilient
+
+```
+/startquest '"apex_mission1"'
+```
+```
+/completequest apex_mission2
+```
+```
+/startquest '"apex_mission2"'
+```
+```
+/completequest apex_mission2
+```
 
 ## The Loyal
 
