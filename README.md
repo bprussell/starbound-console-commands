@@ -77,7 +77,7 @@ Accept "The Erchius Mining Facility" when the prompt appears.
 /startquest '"apex_mission1"'
 ```
 ```
-/completequest apex_mission2
+/completequest apex_mission1
 ```
 ```
 /startquest '"apex_mission2"'
