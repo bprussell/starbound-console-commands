@@ -2,31 +2,28 @@
 
 Guide to getting achievements in Starbound via console commands.
 
-## The Hopeful
+## The Hopeful [x]
 
 ```
 /startquest '"human_mission1"'
 ```
-
-Accept "The Erchius Mining Facility" when the prompt appears.
-
 ```
 /completequest human_mission1
 ```
 
-## Augmented Reality
+## Augmented Reality [x]
 
 ```
 /spawnitem damageaugment2 1
 ```
 
-## The Wanderer
+## The Wanderer [x]
 
 ```
 /completequest gaterepair
 ```
 
-## The Brave
+## The Brave [x]
 
 ```
 /startquest '"floran_mission1"'
@@ -41,7 +38,7 @@ Accept "The Erchius Mining Facility" when the prompt appears.
 /completequest floran_mission2
 ```
 
-## The Wise
+## The Wise [x]
 
 ```
 /startquest '"hylotl_mission1"'
@@ -56,7 +53,7 @@ Accept "The Erchius Mining Facility" when the prompt appears.
 /completequest hylotl_mission2
 ```
 
-## The Devout
+## The Devout [x]
 
 ```
 /startquest '"avian_mission1"'
@@ -71,7 +68,7 @@ Accept "The Erchius Mining Facility" when the prompt appears.
 /completequest avian_mission2
 ```
 
-## The Resilient
+## The Resilient [x]
 
 ```
 /startquest '"apex_mission1"'
@@ -88,19 +85,140 @@ Accept "The Erchius Mining Facility" when the prompt appears.
 
 ## The Loyal
 
+```
+/startquest '"glitch_mission1"'
+```
+```
+/completequest glitch_mission1
+```
+```
+/startquest '"glitch_mission2"'
+```
+```
+/completequest glitch_mission2
+```
+
 ## The Protector
+
+```
+/startquest '"destroyruin"'
+```
+```
+/completequest destroyruin
+```
 
 ## Ending Prohibition
 
+```
+/startquest '"penquin1'"
+```
+Talk to the penguin
+```
+/spawnitem neolaserlauncher
+```
+Equip it
+```
+/warp instanceworld:outpost
+```
+Kill Dreadwing
+
 ## Shock and Awe
+
+```
+/startquest '"mechunlock"'
+```
+```
+/completequest mechunlock
+```
+```
+/startquest '"mechupgrade1"'
+```
+```
+/completequest mechupgrade1
+```
+```
+/startquest '"mechupgrade2"'
+```
+Make sure you're not on the outpost
+```
+/spawnmonster robotboss 2
+```
+Kill the boss
 
 ## Cosmic Curator
 
+Note: first try just quest number 6 and if that doesn't work, do the prerequisites.
+```
+/startquest '"museumcurator1"'
+```
+```
+/completequest museumcurator1
+```
+```
+/startquest '"museumcurator2"'
+```
+```
+/completequest museumcurator2
+```
+```
+/startquest '"museumcurator3"'
+```
+```
+/completequest museumcurator3
+```
+```
+/startquest '"museumcurator4"'
+```
+```
+/completequest museumcurator4
+```
+```
+/startquest '"museumcurator5"'
+```
+```
+/completequest museumcurator5
+```
+```
+/startquest '"museumcurator6"'
+```
+```
+/completequest museumcurator6
+```
+
 ## King Barbarian
+
+Note: Try just arena 3 start/complete first
+
+```
+/startquest '"floranarena1"'
+```
+```
+/completequest floranarena1
+```
+```
+/startquest '"floranarena2"'
+```
+```
+/completequest floranarena2
+```
+```
+/startquest '"floranarena3"'
+```
+```
+/completequest floranarena3
+```
 
 ## You're aMAZEing!
 
+```
+/spawnitem winningticket
+```
+
 ## Just like mum used to make!
+
+```
+/spawnitem bakedpotato 1
+```
 
 ## Culinary Century
 
