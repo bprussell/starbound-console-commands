@@ -83,7 +83,7 @@ Guide to getting achievements in Starbound via console commands.
 /completequest apex_mission2
 ```
 
-## The Loyal
+## The Loyal [x]
 
 ```
 /startquest '"glitch_mission1"'
