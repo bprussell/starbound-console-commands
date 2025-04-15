@@ -98,7 +98,7 @@ Guide to getting achievements in Starbound via console commands.
 /completequest glitch_mission2
 ```
 
-## The Protector
+## The Protector [x]
 
 ```
 /startquest '"destroyruin"'
