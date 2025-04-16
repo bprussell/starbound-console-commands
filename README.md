@@ -107,7 +107,7 @@ Guide to getting achievements in Starbound via console commands.
 /completequest destroyruin
 ```
 
-## Ending Prohibition
+## Ending Prohibition [x]
 
 ```
 /startquest '"penguin1"'
@@ -122,7 +122,7 @@ Equip it
 ```
 Kill Dreadwing
 
-## Shock and Awe
+## Shock and Awe [x]
 
 ```
 /startquest '"mechunlock"'
