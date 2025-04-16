@@ -110,7 +110,7 @@ Guide to getting achievements in Starbound via console commands.
 ## Ending Prohibition
 
 ```
-/startquest '"penguin1'"
+/startquest '"penguin1"'
 ```
 Talk to the penguin
 ```
