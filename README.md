@@ -110,7 +110,7 @@ Guide to getting achievements in Starbound via console commands.
 ## Ending Prohibition
 
 ```
-/startquest '"penquin1'"
+/startquest '"penguin1'"
 ```
 Talk to the penguin
 ```
@@ -145,39 +145,8 @@ Make sure you're not on the outpost
 ```
 Kill the boss
 
-## Cosmic Curator
+## Cosmic Curator [x]
 
-Note: first try just quest number 6 and if that doesn't work, do the prerequisites.
-```
-/startquest '"museumcurator1"'
-```
-```
-/completequest museumcurator1
-```
-```
-/startquest '"museumcurator2"'
-```
-```
-/completequest museumcurator2
-```
-```
-/startquest '"museumcurator3"'
-```
-```
-/completequest museumcurator3
-```
-```
-/startquest '"museumcurator4"'
-```
-```
-/completequest museumcurator4
-```
-```
-/startquest '"museumcurator5"'
-```
-```
-/completequest museumcurator5
-```
 ```
 /startquest '"museumcurator6"'
 ```
