@@ -177,15 +177,382 @@ Kill the boss
 
 ## Culinary Century
 
+```
+/spawnitem apexfritter
+```
+```
+/spawnitem automatostew
+```
+```
+/spawnitem baconpancakes
+```
+```
+/spawnitem boltos
+```
+```
+/spawnitem cheeseburger
+```
+```
+/spawnitem coralcreepcurry
+```
+```
+/spawnitem cornpeckers
+```
+```
+/spawnitem featherfood
+```
+```
+/spawnitem fishdumplings
+```
+```
+/spawnitem fishfingers
+```
+```
+/spawnitem fishinabone
+```
+```
+/spawnitem fishnchips
+```
+```
+/spawnitem fishpie
+```
+```
+/spawnitem fishstew
+```
+```
+/spawnitem hamburger
+```
+```
+/spawnitem hothothotpot
+```
+```
+/spawnitem meatdumplings
+```
+```
+/spawnitem meatstew
+```
+```
+/spawnitem mushroomquiche
+```
+```
+/spawnitem oceanrisotto
+```
+```
+/spawnitem oceansurprise
+```
+```
+/spawnitem oculemonstew
+```
+```
+/spawnitem omelette
+```
+```
+/spawnitem pasty
+```
+```
+/spawnitem pearlpeapancakes
+```
+```
+/spawnitem pearlpearisotto
+```
+```
+/spawnitem pineapplepizzaslice
+```
+```
+/spawnitem piodia
+```
+```
+/spawnitem pizzaslice
+```
+```
+/spawnitem 8gbpizzap
+```
+```
+/spawnitem porridge
+```
+```
+/spawnitem quichelorraine
+```
+```
+/spawnitem reefpodsurprise
+```
+```
+/spawnitem 16gbpasty
+```
+```
+/spawnitem seafoodgratin
+```
+```
+/spawnitem spicyribs
+```
+```
+/spawnitem spookypie
+```
+```
+/spawnitem stickyribs
+```
+```
+/spawnitem sushi
+```
+```
+/spawnitem wartweedstew
+```
+```
+/spawnitem bananacon
+```
+```
+/spawnitem beakseedbread
+```
+```
+/spawnitem bread
+```
+```
+/spawnitem burningeyeballs
+```
+```
+/spawnitem carrotbread
+```
+```
+/spawnitem carrotsoup
+```
+```
+/spawnitem cheese
+```
+```
+/spawnitem coconutrice
+```
+```
+/spawnitem corncob
+```
+```
+/spawnitem eggshootsalad
+```
+```
+/spawnitem eyebowls
+```
+```
+/spawnitem fluffyruffs
+```
+```
+/spawnitem gardensalad
+```
+```
+/spawnitem hotbone
+```
+```
+/spawnitem mashedpotato
+```
+```
+/spawnitem mushroombread
+```
+```
+/spawnitem mushroomrice
+```
+```
+/spawnitem pearlpeabroth
+```
+```
+/spawnitem pearlpeaparcels
+```
+```
+/spawnitem ricecake
+```
+```
+/spawnitem saltsalad
+```
+```
+/spawnitem soggysack
+```
+```
+/spawnitem specialrice
+```
+```
+/spawnitem spicyfeathercrown
+```
+```
+/spawnitem stuffedautomato
+```
+```
+/spawnitem stuffeddirturchin
+```
+```
+/spawnitem stuffedtomato
+```
+```
+/spawnitem sweetmeat
+```
+```
+/spawnitem tomatosoup
+```
+```
+/spawnitem 2kbpotage
+```
+```
+/spawnitem smash
+```
+```
+/spawnitem apegrapes
+```
+```
+/spawnitem applecrumble
+```
+```
+/spawnitem avesmingoicecream
+```
+```
+/spawnitem bananacreampie
+```
+```
+/spawnitem bananaicecream
+```
+```
+/spawnitem bananasplit
+```
+```
+/spawnitem batteredbanana
+```
+```
+/spawnitem beakseedtart
+```
+```
+/spawnitem bonbons
+```
+```
+/spawnitem bonbonbonbons
+```
+```
+/spawnitem brineapple
+```
+```
+/spawnitem cactiicecream
+```
+```
+/spawnitem cake
+```
+```
+/spawnitem campfirebanana
+```
+```
+/spawnitem carrotcake
+```
+```
+/spawnitem chocolatecake
+```
+```
+/spawnitem coconuticecream
+```
+```
+/spawnitem coffeecake
+```
+```
+/spawnitem eggshooticecream
+```
+```
+/spawnitem fruitsalad
+```
+```
+/spawnitem oculemonmeringue
+```
+```
+/spawnitem pussplumpudding
+```
+```
+/spawnitem pussplumtart
+```
+```
+/spawnitem ricepudding
+```
+```
+/spawnitem snowcone
+```
+```
+/spawnitem toxictart
+```
+```
+/spawnitem candyapple
+```
+
 ## Alien Archaeologist
+
+```
+/spawnitem fossildisplay1
+```
+```
+/spawnitem penguinfossil
+```
+
+Place the fossil display. Then interact with it and there is a spot to insert the fossil.
 
 ## Home Sweet Home
 
-## All Walks of Life
+Go to any barren planet you want.
+
+Fuel for your ship to move:
+```
+/spawnitem liquidfuel 1000
+```
+
+Build some homes on the barren planet. First, get materials.
+
+```
+/spawnitem colonydeed 1000
+```
+```
+/spawnitem darkwoodmaterial 1000
+```
+```
+/spawnitem torch 1000
+```
+```
+/spawnitem woodendoor 1000
+```
+
+Build a box, place a light and door in it and then a colony deed as last. A new colonist should spawn.
 
 ## Cramped Colony
 
+Build the houses like this:
+
+![Cramped Colony](https://i.imgur.com/r7fzzbv.png)
+
+## All Walks of Life
+
+Keep going but make the rooms a bit bigger. Place the following items in a room, then the colony deed last.
+
+```
+/spawnitem spookybed
+```
+```
+/spawnitem drillconsole
+```
+```
+/spawnitem shadowshrine3
+```
+```
+/spawnitem sewerwallgrate
+```
+```
+/spawnitem retroscifibed
+```
+```
+/spawnitem astrocrate
+```
+```
+/spawnitem saloonsign
+```
+```
+/spawnitem bunkerdisplay2
+```
+```
+/spawnitem cabinbunkbed
+```
+```
+/spawnitem stationmedscanner
+```
+
 ## From the Ashes
+
+Expand the cramped colony with two floors and 5 rooms on each level for a total of 10 tenants.
 
 ## A Helping Hand
 
