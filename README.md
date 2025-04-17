@@ -154,22 +154,8 @@ Kill the boss
 /completequest museumcurator6
 ```
 
-## King Barbarian
+## King Barbarian [x]
 
-Note: Try just arena 3 start/complete first
-
-```
-/startquest '"floranarena1"'
-```
-```
-/completequest floranarena1
-```
-```
-/startquest '"floranarena2"'
-```
-```
-/completequest floranarena2
-```
 ```
 /startquest '"floranarena3"'
 ```
