@@ -163,7 +163,7 @@ Kill the boss
 /completequest floranarena3
 ```
 
-## You're aMAZEing!
+## You're aMAZEing! [x]
 
 ```
 /spawnitem winningticket
