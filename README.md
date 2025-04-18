@@ -492,7 +492,9 @@ Fuel for your ship to move:
 /spawnitem liquidfuel 1000
 ```
 
-Build some homes on the barren planet. First, get materials.
+Build some homes on the barren planet. [Here](https://starbounder.org/Stars) is a place where you can find such a planet.
+
+First, get materials.
 
 ```
 /spawnitem colonydeed 1000
