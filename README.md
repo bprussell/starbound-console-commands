@@ -556,22 +556,104 @@ Expand the cramped colony with two floors and 5 rooms on each level for a total 
 
 ## A Helping Hand
 
+Complete 10 quests from the colonists created during "All Walks of Life". Quests that require items can be spawned using `/spawnitem ...`. Full item list here: https://commands.gg/starbound/items
+
+A note on avoiding certain quest types:
+> I found after I did 25-30 quests or so, I just started declining certain quest types, as there are much shorter and faster sidequests your tenants can give you. The fastest seem to be the ones where they ask you to talk to another tenant, and you'll go back and forth between the two a couple times, until they either just ask you to bring something to the other, or place a piece of furniture down in their rooms. Or if you've already got a good farm going, the ones where they will give you certain seeds, and ask you to grow crops for them, you may already have them grown. Then you'll use those same crops to craft a certain food item. I personally never took any of their sidequests where they ask you to build a certain room type for a certain tenant, as I always wanted full control of what rooms I built.
+
 ## A Cheeky Chore
+
+Do 25 quests from colonists, as above.
 
 ## A Tireless Task
 
+Do 50 quests from colonists, as above.
+
 ## First Mate
 
-## Captain of the Year
+```
+/spawnnpc penguin crewmemberpenguin
+```
+
+You have to highlight the NPC crewmate and press E. Then a panel will come up asking to hire them. After that the achirvement will pop.
 
 ## A Motley Crew
 
+```
+/spawnitem upgrademodule 100
+```
+```
+/spawnnpc apex crewmember
+```
+```
+/spawnnpc floran crewmember
+```
+```
+/spawnnpc glitch crewmember
+```
+```
+/spawnnpc avian crewmember
+```
+```
+/spawnnpc hylotl crewmember
+```
+```
+/spawnnpc human crewmember
+```
+```
+/spawnnpc novakid crewmember
+```
+When prompted to upgrade your ship:
+```
+/upgradeship '{"shipLevel":8}'
+```
+
+## Captain of the Year
+
+After "A Motley Crew" is complete, run this command 5 times
+
+```
+/spawnnpc apex crewmember
+```
+
 ## Feathered Friend
+
+```
+/spawnnpc penguin crewmemberpenguin
+```
+
+Already done on "First Mate" - does this pop both?
 
 ## Sweet Revenge
 
+Do this 100 times
+
+```
+/spawnmonster smallflying 0
+```
+
+Then kill them with the laser launcher.
+
 ## Too Heavy to Kick
+
+```
+/spawnmonster robotchicken 1 '{"capturable":true}'
+```
+
+Kill the chicken with the laser launcher.
 
 ## Not in Front of the Children!
 
+```
+/spawnmonster motherpoptop
+```
+
+Kill it.
+
 ## Villain
+
+```
+/spawnnpc hylotl frogvillager
+```
+
+Kill it.
