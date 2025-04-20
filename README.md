@@ -169,7 +169,7 @@ Kill the boss
 /spawnitem winningticket
 ```
 
-## Just like mum used to make!
+## Just like mum used to make! [x]
 
 ```
 /spawnitem bakedpotato 1
