@@ -472,7 +472,7 @@ Kill the boss
 /spawnitem candyapple
 ```
 
-## Alien Archaeologist
+## Alien Archaeologist [x]
 
 ```
 /spawnitem fossildisplay1
