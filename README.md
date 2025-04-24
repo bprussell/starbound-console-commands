@@ -652,7 +652,7 @@ Kill the chicken with the laser launcher.
 
 Kill it.
 
-## Villain
+## Villain [x]
 
 ```
 /spawnnpc hylotl frogvillager
