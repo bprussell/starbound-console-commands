@@ -639,7 +639,7 @@ Then kill them with the laser launcher.
 ## Too Heavy to Kick
 
 ```
-/spawnmonster robotchicken 1 '{"capturable":true}'
+/spawnmonster robotchicken 1
 ```
 
 Kill the chicken with the laser launcher.
