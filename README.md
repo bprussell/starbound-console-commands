@@ -636,7 +636,7 @@ Do this 100 times
 
 Then kill them with the laser launcher.
 
-## Too Heavy to Kick
+## Too Heavy to Kick [x]
 
 ```
 /spawnmonster robotchicken 1
