@@ -175,7 +175,7 @@ Kill the boss
 /spawnitem bakedpotato 1
 ```
 
-## Culinary Century
+## Culinary Century [x]
 
 ```
 /spawnitem apexfritter
@@ -303,6 +303,7 @@ Kill the boss
 ```
 /spawnitem beakseedbread
 ```
+It was here that the achievement popped for me. I had to empty my inventory prior to this popping.
 ```
 /spawnitem bread
 ```
