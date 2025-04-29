@@ -484,7 +484,7 @@ It was here that the achievement popped for me. I had to empty my inventory prio
 
 Place the fossil display. Then interact with it and there is a spot to insert the fossil.
 
-## Home Sweet Home
+## Home Sweet Home [x]
 
 Go to any barren planet you want.
 
@@ -512,7 +512,9 @@ First, get materials.
 
 Build a box, place a light and door in it and then a colony deed as last. A new colonist should spawn.
 
-## Cramped Colony
+Note: to place the deed, the room has to have a background wall to place it on. You place the foreground walls with RT and the background walls with LT. The deed should be placed near the ground.(touching it?)
+
+## Cramped Colony [x]
 
 Build the houses like this:
 
