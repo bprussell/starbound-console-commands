@@ -647,7 +647,7 @@ Then kill them with the laser launcher.
 
 Kill the chicken with the laser launcher.
 
-## Not in Front of the Children!
+## Not in Front of the Children! [x]
 
 ```
 /spawnmonster motherpoptop
