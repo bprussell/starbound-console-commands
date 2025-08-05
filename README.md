@@ -580,7 +580,7 @@ Do 50 quests from colonists, as above.
 /spawnnpc penguin crewmemberpenguin
 ```
 
-You have to highlight the NPC crewmate and press E. Then a panel will come up asking to hire them. Then teleport to your base. After that the achirvement will pop.
+You have to highlight the NPC crewmate and press E. Then a panel will come up asking to hire them. Then teleport to your base. After that the achievement will pop.
 
 ## Feathered Friend [x]
 
