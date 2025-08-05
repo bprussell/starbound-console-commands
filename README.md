@@ -574,13 +574,21 @@ Do 25 quests from colonists, as above.
 
 Do 50 quests from colonists, as above.
 
-## First Mate
+## First Mate [x]
 
 ```
 /spawnnpc penguin crewmemberpenguin
 ```
 
-You have to highlight the NPC crewmate and press E. Then a panel will come up asking to hire them. After that the achirvement will pop.
+You have to highlight the NPC crewmate and press E. Then a panel will come up asking to hire them. Then teleport to your base. After that the achirvement will pop.
+
+## Feathered Friend [x]
+
+```
+/spawnnpc penguin crewmemberpenguin
+```
+
+Already done on "First Mate" - it pops both.
 
 ## A Motley Crew
 
@@ -620,14 +628,6 @@ After "A Motley Crew" is complete, run this command 5 times
 ```
 /spawnnpc apex crewmember
 ```
-
-## Feathered Friend
-
-```
-/spawnnpc penguin crewmemberpenguin
-```
-
-Already done on "First Mate" - does this pop both?
 
 ## Sweet Revenge
 
