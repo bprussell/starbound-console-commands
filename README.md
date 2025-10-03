@@ -555,9 +555,11 @@ Keep going but make the rooms a bit bigger. Place the following items in a room,
 /spawnitem stationmedscanner
 ```
 
-## From the Ashes
+## From the Ashes [x]
 
 Expand the cramped colony with two floors and 5 rooms on each level for a total of 10 tenants.
+
+This came naturally for me when I was working on "All Walks of Life".
 
 ## A Helping Hand
 
