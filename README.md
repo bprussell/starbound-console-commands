@@ -520,7 +520,7 @@ Build the houses like this:
 
 ![Cramped Colony](https://i.imgur.com/r7fzzbv.png)
 
-## All Walks of Life
+## All Walks of Life [x]
 
 Keep going but make the rooms a bit bigger. Place the following items in a room, then the colony deed last.
 
@@ -554,6 +554,11 @@ Keep going but make the rooms a bit bigger. Place the following items in a room,
 ```
 /spawnitem stationmedscanner
 ```
+
+The achievement popped early for me. I didn't have to build the `stationmedscanner`. When it popped, my colony looked like this:
+
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/23325352-5e3b-42cf-9284-fa39736be055" />
+
 
 ## From the Ashes [x]
 
