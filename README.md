@@ -597,7 +597,7 @@ You have to highlight the NPC crewmate and press E. Then a panel will come up as
 
 Already done on "First Mate" - it pops both.
 
-## A Motley Crew
+## A Motley Crew [x]
 
 ```
 /spawnitem upgrademodule 100
@@ -627,6 +627,8 @@ When prompted to upgrade your ship:
 ```
 /upgradeship '{"shipLevel":8}'
 ```
+
+After hiring all of the crew members, teleport to the ship to unlock the achievement.
 
 ## Captain of the Year
 
