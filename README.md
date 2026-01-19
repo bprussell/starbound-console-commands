@@ -630,13 +630,15 @@ When prompted to upgrade your ship:
 
 After hiring all of the crew members, teleport to the ship to unlock the achievement.
 
-## Captain of the Year
+## Captain of the Year [x]
 
 After "A Motley Crew" is complete, run this command 5 times
 
 ```
 /spawnnpc apex crewmember
 ```
+
+Then teleport to the ship to unlock the achievement.
 
 ## Sweet Revenge
 
