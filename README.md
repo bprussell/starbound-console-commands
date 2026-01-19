@@ -640,12 +640,12 @@ After "A Motley Crew" is complete, run this command 5 times
 
 Then teleport to the ship to unlock the achievement.
 
-## Sweet Revenge
+## Sweet Revenge [x]
 
-Do this 100 times
+This command spawns 100 small flying monsters. If needed, change the number on the end.
 
 ```
-/spawnmonster smallflying 0
+/spawnmonster smallflying 0 100
 ```
 
 Then kill them with the laser launcher.
