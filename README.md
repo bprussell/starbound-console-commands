@@ -2,7 +2,7 @@
 
 Guide to getting achievements in Starbound via console commands.
 
-## The Hopeful [x]
+## The Hopeful
 
 ```
 /startquest '"human_mission1"'
@@ -11,19 +11,19 @@ Guide to getting achievements in Starbound via console commands.
 /completequest human_mission1
 ```
 
-## Augmented Reality [x]
+## Augmented Reality
 
 ```
 /spawnitem damageaugment2 1
 ```
 
-## The Wanderer [x]
+## The Wanderer
 
 ```
 /completequest gaterepair
 ```
 
-## The Brave [x]
+## The Brave
 
 ```
 /startquest '"floran_mission1"'
@@ -38,7 +38,7 @@ Guide to getting achievements in Starbound via console commands.
 /completequest floran_mission2
 ```
 
-## The Wise [x]
+## The Wise
 
 ```
 /startquest '"hylotl_mission1"'
@@ -53,7 +53,7 @@ Guide to getting achievements in Starbound via console commands.
 /completequest hylotl_mission2
 ```
 
-## The Devout [x]
+## The Devout
 
 ```
 /startquest '"avian_mission1"'
@@ -68,7 +68,7 @@ Guide to getting achievements in Starbound via console commands.
 /completequest avian_mission2
 ```
 
-## The Resilient [x]
+## The Resilient
 
 ```
 /startquest '"apex_mission1"'
@@ -83,7 +83,7 @@ Guide to getting achievements in Starbound via console commands.
 /completequest apex_mission2
 ```
 
-## The Loyal [x]
+## The Loyal
 
 ```
 /startquest '"glitch_mission1"'
@@ -98,7 +98,7 @@ Guide to getting achievements in Starbound via console commands.
 /completequest glitch_mission2
 ```
 
-## The Protector [x]
+## The Protector
 
 ```
 /startquest '"destroyruin"'
@@ -107,7 +107,7 @@ Guide to getting achievements in Starbound via console commands.
 /completequest destroyruin
 ```
 
-## Ending Prohibition [x]
+## Ending Prohibition
 
 ```
 /startquest '"penguin1"'
@@ -122,7 +122,7 @@ Equip it
 ```
 Kill Dreadwing
 
-## Shock and Awe [x]
+## Shock and Awe
 
 ```
 /startquest '"mechunlock"'
@@ -145,7 +145,7 @@ Make sure you're not on the outpost
 ```
 Kill the boss
 
-## Cosmic Curator [x]
+## Cosmic Curator
 
 ```
 /startquest '"museumcurator6"'
@@ -154,7 +154,7 @@ Kill the boss
 /completequest museumcurator6
 ```
 
-## King Barbarian [x]
+## King Barbarian
 
 ```
 /startquest '"floranarena3"'
@@ -163,19 +163,19 @@ Kill the boss
 /completequest floranarena3
 ```
 
-## You're aMAZEing! [x]
+## You're aMAZEing!
 
 ```
 /spawnitem winningticket
 ```
 
-## Just like mum used to make! [x]
+## Just like mum used to make!
 
 ```
 /spawnitem bakedpotato 1
 ```
 
-## Culinary Century [x]
+## Culinary Century
 
 ```
 /spawnitem apexfritter
@@ -473,7 +473,7 @@ It was here that the achievement popped for me. I had to empty my inventory prio
 /spawnitem candyapple
 ```
 
-## Alien Archaeologist [x]
+## Alien Archaeologist
 
 ```
 /spawnitem fossildisplay1
@@ -484,7 +484,7 @@ It was here that the achievement popped for me. I had to empty my inventory prio
 
 Place the fossil display. Then interact with it and there is a spot to insert the fossil.
 
-## Home Sweet Home [x]
+## Home Sweet Home
 
 Go to any barren planet you want.
 
@@ -514,13 +514,13 @@ Build a box, place a light and door in it and then a colony deed as last. A new 
 
 Note: to place the deed, the room has to have a background wall to place it on. You place the foreground walls with RT and the background walls with LT. The deed should be placed near the ground.(touching it?)
 
-## Cramped Colony [x]
+## Cramped Colony
 
 Build the houses like this:
 
 ![Cramped Colony](https://i.imgur.com/r7fzzbv.png)
 
-## All Walks of Life [x]
+## All Walks of Life
 
 Keep going but make the rooms a bit bigger. Place the following items in a room, then the colony deed last.
 
@@ -560,7 +560,7 @@ The achievement popped early for me. I didn't have to build the `stationmedscann
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/23325352-5e3b-42cf-9284-fa39736be055" />
 
 
-## From the Ashes [x]
+## From the Ashes
 
 Expand the cramped colony with two floors and 5 rooms on each level for a total of 10 tenants.
 
@@ -568,10 +568,36 @@ This came naturally for me when I was working on "All Walks of Life".
 
 ## A Helping Hand
 
-Complete 10 quests from the colonists created during "All Walks of Life". Quests that require items can be spawned using `/spawnitem ...`. Full item list here: https://commands.gg/starbound/items
+Complete 10 quests from the colonists created during "All Walks of Life". Quests that require items can be spawned using `/spawnitem ...`.
 
-A note on avoiding certain quest types:
-> I found after I did 25-30 quests or so, I just started declining certain quest types, as there are much shorter and faster sidequests your tenants can give you. The fastest seem to be the ones where they ask you to talk to another tenant, and you'll go back and forth between the two a couple times, until they either just ask you to bring something to the other, or place a piece of furniture down in their rooms. Or if you've already got a good farm going, the ones where they will give you certain seeds, and ask you to grow crops for them, you may already have them grown. Then you'll use those same crops to craft a certain food item. I personally never took any of their sidequests where they ask you to build a certain room type for a certain tenant, as I always wanted full control of what rooms I built.
+Full item list here: https://commands.gg/starbound/items
+
+When asking to build a specific room, I had a big room for this that I would remove the deed if it existed, place the items, and add the deed back. Then I would remove the items and the deed to get ready for the next one. I got the following requirements for specific rooms. There may be more, but you can google the tag name to search for on starbounder.
+
+Things an Avian would like/Avian furniture: https://starbounder.org/Tag:Avian
+```
+/spawnitem aviancaptainschair 3
+```
+
+Pretty things: https://starbounder.org/Tag:Pretty
+```
+/spawnitem paintingstarrynight 3
+```
+
+Weird things: https://starbounder.org/Tag:Odd
+```
+/spawnitem alienchair 3
+```
+
+Electronic things: https://starbounder.org/Tag:Electronic
+```
+/spawnitem outpostterminal 3
+```
+
+Scientific things: https://starbounder.org/Tag:Science
+```
+/spawnitem microscope 3
+```
 
 ## A Cheeky Chore
 
@@ -581,7 +607,7 @@ Do 25 quests from colonists, as above.
 
 Do 50 quests from colonists, as above.
 
-## First Mate [x]
+## First Mate
 
 ```
 /spawnnpc penguin crewmemberpenguin
@@ -589,7 +615,7 @@ Do 50 quests from colonists, as above.
 
 You have to highlight the NPC crewmate and press E. Then a panel will come up asking to hire them. Then teleport to your base. After that the achievement will pop.
 
-## Feathered Friend [x]
+## Feathered Friend
 
 ```
 /spawnnpc penguin crewmemberpenguin
@@ -597,7 +623,7 @@ You have to highlight the NPC crewmate and press E. Then a panel will come up as
 
 Already done on "First Mate" - it pops both.
 
-## A Motley Crew [x]
+## A Motley Crew
 
 ```
 /spawnitem upgrademodule 100
@@ -630,7 +656,7 @@ When prompted to upgrade your ship:
 
 After hiring all of the crew members, teleport to the ship to unlock the achievement.
 
-## Captain of the Year [x]
+## Captain of the Year
 
 After "A Motley Crew" is complete, run this command 5 times
 
@@ -640,9 +666,9 @@ After "A Motley Crew" is complete, run this command 5 times
 
 Then teleport to the ship to unlock the achievement.
 
-## Sweet Revenge [x]
+## Sweet Revenge
 
-This command spawns 100 small flying monsters. If needed, change the number on the end.
+This command spawns 100 small flying monsters.
 
 ```
 /spawnmonster smallflying 0 100
@@ -650,7 +676,9 @@ This command spawns 100 small flying monsters. If needed, change the number on t
 
 Then kill them with the laser launcher.
 
-## Too Heavy to Kick [x]
+If it doesn't track properly, try playing with the number on the end. For example, use 10 instead of 100.
+
+## Too Heavy to Kick
 
 ```
 /spawnmonster robotchicken 1
@@ -658,7 +686,7 @@ Then kill them with the laser launcher.
 
 Kill the chicken with the laser launcher.
 
-## Not in Front of the Children! [x]
+## Not in Front of the Children!
 
 ```
 /spawnmonster motherpoptop
@@ -666,10 +694,159 @@ Kill the chicken with the laser launcher.
 
 Kill it.
 
-## Villain [x]
+## Villain
 
 ```
 /spawnnpc hylotl frogvillager
 ```
 
 Kill it.
+
+## Starbound Valley
+
+```
+/spawnitem automato
+```
+```
+/spawnitem avesmingo
+```
+```
+/spawnitem banana
+```
+```
+/spawnitem beakseed
+```
+```
+/spawnitem boltbulb
+```
+```
+/spawnitem boneboo
+```
+```
+/spawnitem carrot
+```
+```
+/spawnitem chili
+```
+```
+/spawnitem cocoa
+```
+```
+/spawnitem coffeebeans
+```
+```
+/spawnitem cotton
+```
+```
+/spawnitem coralcreep
+```
+```
+/spawnitem corn
+```
+```
+/spawnitem crystalplant
+```
+```
+/spawnitem currentcorn
+```
+```
+/spawnitem diodia
+```
+```
+/spawnitem dirturchin
+```
+```
+/spawnitem eggshoot
+```
+```
+/spawnitem feathercrown
+```
+```
+/spawnitem grapes
+```
+```
+/spawnitem kiwi
+```
+```
+/spawnitem shroom
+```
+```
+/spawnitem neonmelon
+```
+```
+/spawnitem oculemon
+```
+```
+/spawnitem pearlpea
+```
+```
+/spawnitem pineapple
+```
+```
+/spawnitem potato
+```
+```
+/spawnitem pussplum
+```
+```
+/spawnitem reefpod
+```
+```
+/spawnitem rice
+```
+```
+/spawnitem sugar
+```
+```
+/spawnitem tomato
+```
+```
+/spawnitem toxictop
+```
+```
+/spawnitem wartweed
+```
+```
+/spawnitem wheat
+```
+
+## Monster Whisperer
+
+First we need a pokeball.
+```
+/spawnitem capturepod
+```
+
+Now the monster.
+```
+/spawnmonster motherpoptop
+```
+
+Use laser to get its health down, (about 33% health left worked for me)
+
+Equip the pokeball and throw at monster.
+
+## Traveling in Style
+
+```
+/spawnitem sportscarcontrollerred
+```
+
+## Destroyer of Worlds
+
+```
+/spawnitem dirtmaterial 10000000 '{"maxStack":10000000}'
+```
+Pick up the sack of dirt.
+
+## Not a Llama
+
+```
+/spawnitem alpacahead
+```
+```
+/spawnitem alpacachest
+```
+```
+/spawnitem alpacalegs
+```
