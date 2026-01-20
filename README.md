@@ -599,6 +599,11 @@ Scientific things: https://starbounder.org/Tag:Science
 /spawnitem microscope 3
 ```
 
+If you're not getting any quests to spawn, use the following command to speed the game clock forward by 1 day.
+```
+/timewarp 86400
+```
+
 ## A Cheeky Chore
 
 Do 25 quests from colonists, as above.
